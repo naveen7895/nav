@@ -8,9 +8,9 @@ public class Sample {
 	public static void main(String[] args) {
 		BasicConfigurator.configure();
 		log.info(5+10);
-		log.debug("Hi");
+		log.debug("Vikram");
 		log.error('c');
-		log.warn(null);
+		log.warn("Hello");
 		log.fatal(args);
 
 	}
